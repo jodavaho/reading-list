@@ -2,7 +2,7 @@
 
 ## Scifi / Fantasy
 
-### Recommended (ordered)
+### Top
 
 1. Starship Troopers
 2. Ender's Game
@@ -15,36 +15,48 @@
 9. Diamond Age
 10. Anathem
 
-### Not so much
+---
 
 - Fire upon the deep
 - Any other ender's game 
 
 ## Tech
 
-### Recommended
+### Top
 
-- Art of invisibility
+1. Drawdown
+2. The knowledge
+
+---
 
 ## Computer science / math
 
-### Recommended
+### Top
 
-- How to solve it
+1. On the shoulders of giants
+2. How to solve it
+
+---
+
+- Art of invisibility
+- Cypherpunks
 - Algorithms to live by 
 
 ## History / Culture / Politics
 
-### Recommended (ordered)
+### Top
 
 1. World Order
 2. On Grand Strategy
-3. Autobiography of Benjamin Franklin
 4. The strategy of conflict
+
+---
+
+- Autobiography of Benjamin Franklin
 
 ## Philosophy
 
-### Recommended (ordered)
+### Top
 
 1. Way of the superior man
 2. Guide to the good life
@@ -55,6 +67,14 @@
 7. Meditations (marcus aurelius)
 8. Luck factor (though the "science" is sketchy)
 
+---
+
+- Tao of pooh
+
+### Not so much
+
+- Five invitations (better said by other books / philosophers)
+
 ## To read:
 
 - Accessory to war
@@ -64,3 +84,7 @@
 - Forever Free (Forever War Book 3)
 - I believe in zero
 - Purity and danger
+- Value of the Moon
+- Space barons
+- Asteroid Mining 101
+- Cypherpunks
