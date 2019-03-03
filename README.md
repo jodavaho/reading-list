@@ -10,6 +10,7 @@ Reading List. How to find useful things to read during downtime minutes.
 # Forums / QA
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/)
+- [CS StackExchange](https://cs.stackexchange.com/)
 
 # Conferences
 
