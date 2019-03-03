@@ -70,9 +70,6 @@
 ---
 
 - Tao of pooh
-
-### Not so much
-
 - Five invitations (better said by other books / philosophers)
 
 ## To read:
