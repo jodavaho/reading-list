@@ -6,6 +6,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [hackernews](https://news.ycombinator.com/)
 - [Hessix](https://www/hessix.com)
 - [Joel on Software](https://www.joelonsoftware.com/)
+- [Modern Warn Institute](https://mwi.usma.edu/)
 
 # Forums / QA
 
