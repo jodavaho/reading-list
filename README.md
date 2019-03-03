@@ -1,10 +1,11 @@
 # 198
-Reading List
+Reading List. How to find useful things to read during downtime minutes.
 
 # Blogs / aggregators
 
 - [hackernews](https://news.ycombinator.com/)
 - [Hessix](https://www/hessix.com)
+- [Joel on Software](https://www.joelonsoftware.com/)
 
 # Forums / QA
 
@@ -26,6 +27,18 @@ Reading List
 - [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
 - [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 
+# Archives to browse
+
+- [arXiv.org](https://arxiv.org/)
+- [gScholar](https://scholar.google.com/)
+
 # Books to read
 
 - [Top 20 on X](https://bookinsider.gitlab.io/)
+- [My running book list](books.md)
+
+# News
+
+- [Bloomberg](https://www.bloomberg.com/)
+- [WSJ](https://www.wsj.com/)
+- [NYT](https://www.nytimes.com/)
