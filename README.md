@@ -25,3 +25,7 @@ Reading List
 - [AURO](https://link.springer.com/journal/10514)
 - [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
 - [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+
+# Books to read
+
+- [Top 20 on X](https://bookinsider.gitlab.io/)
