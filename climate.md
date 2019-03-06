@@ -1,0 +1,1 @@
+- https://www.vice.com/en_us/article/vbwpdb/the-climate-change-paper-so-depressing-its-sending-people-to-therapy
