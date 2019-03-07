@@ -8,6 +8,15 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Modern War Institute](https://mwi.usma.edu/)
 
+# News
+
+- [Bloomberg](https://www.bloomberg.com/)
+- [WSJ](https://www.wsj.com/)
+- [NYT](https://www.nytimes.com/)
+- [Wired](https://www.wired.com/)
+- [Nature](https://www.nature.com/news)
+- [Wired Science](https://www.wired.com/category/science/)
+
 # Forums / QA
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/)
@@ -39,8 +48,3 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Top 20 on X](https://bookinsider.gitlab.io/)
 - [My running book list](books.md)
 
-# News
-
-- [Bloomberg](https://www.bloomberg.com/)
-- [WSJ](https://www.wsj.com/)
-- [NYT](https://www.nytimes.com/)

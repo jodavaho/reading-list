@@ -2,8 +2,6 @@
 
 ## Scifi / Fantasy
 
-### Top
-
 1. Starship Troopers
 2. Ender's Game
 3. Forever War
@@ -22,16 +20,12 @@
 
 ## Tech
 
-### Top
-
 1. Drawdown
 2. The knowledge
 
 ---
 
 ## Computer science / math
-
-### Top
 
 1. On the shoulders of giants
 2. How to solve it
@@ -44,10 +38,9 @@
 
 ## History / Culture / Politics
 
-### Top
-
 1. World Order
 2. On Grand Strategy
+3. Challenges of the developing world
 4. The strategy of conflict
 
 ---
@@ -55,8 +48,6 @@
 - Autobiography of Benjamin Franklin
 
 ## Philosophy
-
-### Top
 
 1. Way of the superior man
 2. Guide to the good life
