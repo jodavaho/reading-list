@@ -52,3 +52,6 @@ Reading List. How to find useful things to read during downtime minutes.
 - [My running book list](books.md)
 - [Centauri Dreams book list](https://www.centauri-dreams.org/an-interstellar-booklist/)
 
+# Advice
+
+- [Career](career.md)
