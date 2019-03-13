@@ -1,0 +1,1 @@
+- [Well balanced developer](https://sizovs.net/2019/03/09/the-well-balanced-developer/?new)
