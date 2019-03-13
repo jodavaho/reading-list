@@ -11,6 +11,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # News
 
+- [JPL Calendar](https://calendar.jpl.nasa.gov/)
 - [Bloomberg](https://www.bloomberg.com/)
 - [WSJ](https://www.wsj.com/)
 - [NYT](https://www.nytimes.com/)
