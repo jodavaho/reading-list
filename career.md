@@ -1,1 +1,2 @@
 - [Well balanced developer](https://sizovs.net/2019/03/09/the-well-balanced-developer/?new)
+- [The development abstraction layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/
