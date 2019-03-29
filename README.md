@@ -8,6 +8,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Modern War Institute](https://mwi.usma.edu/)
 - [Nautilus](http://nautil.us/)
+- [Hackaday](https://hackaday.com/)
 
 # News
 
