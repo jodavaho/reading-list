@@ -9,6 +9,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Modern War Institute](https://mwi.usma.edu/)
 - [Nautilus](http://nautil.us/)
 - [Hackaday](https://hackaday.com/)
+- [techcrunch](https://techcrunch.com/)
 
 # News
 
