@@ -11,6 +11,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Hackaday](https://hackaday.com/)
 - [techcrunch](https://techcrunch.com/)
 - [Darpa R&D](https://www.darpa.mil/work-with-us/opportunities)
+- [Troy Hunt](https://www.troyhunt.com/)
 
 # News
 
