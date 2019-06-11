@@ -7,6 +7,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Hessix](https://www.hessix.com)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Modern War Institute](https://mwi.usma.edu/)
+- [Army war college](https://warroom.armywarcollege.edu/)
 - [Nautilus](http://nautil.us/)
 - [Hackaday](https://hackaday.com/)
 - [techcrunch](https://techcrunch.com/)
