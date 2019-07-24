@@ -10,6 +10,8 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Nautilus](http://nautil.us/)
 - [Hackaday](https://hackaday.com/)
 - [techcrunch](https://techcrunch.com/)
+- [CalculatedRisk](https://www.calculatedriskblog.com/)
+- [Five Thirty Eight](https://fivethirtyeight.com/)
 
 # News
 
