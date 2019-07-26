@@ -1,6 +1,10 @@
 # 198
 Reading List. How to find useful things to read during downtime minutes.
 
+# Common reference
+
+- [Laws of spacecraft development](https://spacecraft.ssl.umd.edu/akins_laws.html)
+
 # Blogs / aggregators
 
 - [hackernews](https://news.ycombinator.com/)
