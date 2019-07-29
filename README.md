@@ -20,6 +20,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [CalculatedRisk](https://www.calculatedriskblog.com/)
 - [Five Thirty Eight](https://fivethirtyeight.com/)
 - [Citylab](https://www.citylab.com/)
+- [National Interest](https://nationalinterest.org/)
 
 # News
 
