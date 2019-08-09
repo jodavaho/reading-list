@@ -22,6 +22,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Citylab](https://www.citylab.com/)
 - [National Interest](https://nationalinterest.org/)
 - [The drive/war zone](https://www.thedrive.com/the-war-zone)
+- [Aviation Week Space](https://aviationweek.com/space)
 
 # News
 
