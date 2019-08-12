@@ -24,6 +24,8 @@ Reading List. How to find useful things to read during downtime minutes.
 - [The drive/war zone](https://www.thedrive.com/the-war-zone)
 - [Aviation Week Space](https://aviationweek.com/space)
 - [Strongtowns](https://www.strongtowns.org/)
+- [examine.com](https://examine.com)
+- [selfhacked.com](https://selfhacked.com/)
 
 # News
 
