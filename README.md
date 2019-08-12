@@ -1,40 +1,54 @@
 # 198
+
 Reading List. How to find useful things to read during downtime minutes.
 
 # Common reference
 
 - [Laws of spacecraft development](https://spacecraft.ssl.umd.edu/akins_laws.html)
 
-# Blogs / aggregators
+# Tech
 
-- [hackernews](https://news.ycombinator.com/)
-- [Hessix](https://www.hessix.com)
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Modern War Institute](https://mwi.usma.edu/)
-- [Army war college](https://warroom.armywarcollege.edu/)
-- [Nautilus](http://nautil.us/)
 - [Hackaday](https://hackaday.com/)
-- [techcrunch](https://techcrunch.com/)
-- [Darpa R&D](https://www.darpa.mil/work-with-us/opportunities)
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Nautilus](http://nautil.us/)
 - [Troy Hunt](https://www.troyhunt.com/)
-- [CalculatedRisk](https://www.calculatedriskblog.com/)
-- [Five Thirty Eight](https://fivethirtyeight.com/)
-- [Citylab](https://www.citylab.com/)
-- [National Interest](https://nationalinterest.org/)
-- [The drive/war zone](https://www.thedrive.com/the-war-zone)
-- [Aviation Week Space](https://aviationweek.com/space)
-- [Strongtowns](https://www.strongtowns.org/)
+- [Wired](https://www.wired.com/)
+- [hackernews](https://news.ycombinator.com/)
+- [techcrunch](https://techcrunch.com/)
+
+# Security
+
+- [Krebs on Security](https://krebsonsecurity.com/)
+
+# Health
+
 - [examine.com](https://examine.com)
 - [selfhacked.com](https://selfhacked.com/)
 
-# News
+
+# Defense
+
+- [Army war college](https://warroom.armywarcollege.edu/)
+- [Aviation Week Space](https://aviationweek.com/space)
+- [Darpa R&D](https://www.darpa.mil/work-with-us/opportunities)
+- [Modern War Institute](https://mwi.usma.edu/)
+- [National Interest](https://nationalinterest.org/)
+- [The drive/war zone](https://www.thedrive.com/the-war-zone)
+
+# Governance
+
+- [CalculatedRisk](https://www.calculatedriskblog.com/)
+- [Five Thirty Eight](https://fivethirtyeight.com/)
+- [Citylab](https://www.citylab.com/)
+- [Strongtowns](https://www.strongtowns.org/)
+
+# News 
 
 - [JPL Calendar](https://calendar.jpl.nasa.gov/)
 - [JPL ongoing projects](http://projectsupport.jpl.nasa.gov/views/project/project-summary.cfm)
 - [Bloomberg](https://www.bloomberg.com/)
 - [WSJ](https://www.wsj.com/)
 - [NYT](https://www.nytimes.com/)
-- [Wired](https://www.wired.com/)
 - [Nature](https://www.nature.com/news)
 - [Wired Science](https://www.wired.com/category/science/)
 
