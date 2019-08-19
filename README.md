@@ -2,12 +2,14 @@
 
 Reading List. How to find useful things to read during downtime minutes.
 
-# Common reference
+# Advice
 
-- [Laws of spacecraft development](https://spacecraft.ssl.umd.edu/akins_laws.html)
+- [Career](career.md)
+- [Engineering](engineering.md)
 
 # Tech
 
+- [arrl.org](http://www.arrl.org/)
 - [Hackaday](https://hackaday.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Nautilus](http://nautil.us/)
@@ -83,7 +85,3 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Top 20 on X](https://bookinsider.gitlab.io/)
 - [My running book list](books.md)
 - [Centauri Dreams book list](https://www.centauri-dreams.org/an-interstellar-booklist/)
-
-# Advice
-
-- [Career](career.md)
