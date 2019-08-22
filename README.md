@@ -18,6 +18,10 @@ Reading List. How to find useful things to read during downtime minutes.
 - [hackernews](https://news.ycombinator.com/)
 - [techcrunch](https://techcrunch.com/)
 
+# Environment
+
+- [windy.com](https://www.windy.com/)
+
 # Security
 
 - [Krebs on Security](https://krebsonsecurity.com/)
