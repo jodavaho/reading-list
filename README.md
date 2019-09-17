@@ -2,6 +2,10 @@
 
 Reading List. How to find useful things to read during downtime minutes.
 
+# Self-organization
+
+- [Trello](https://trello.com)
+
 # Advice
 
 - [Career](career.md)
