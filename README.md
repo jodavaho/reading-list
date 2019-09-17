@@ -39,6 +39,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # Defense
 
+- [Defense.gov](https://www.defense.gov/)
 - [Army war college](https://warroom.armywarcollege.edu/)
 - [Aviation Week Space](https://aviationweek.com/space)
 - [Darpa R&D](https://www.darpa.mil/work-with-us/opportunities)
