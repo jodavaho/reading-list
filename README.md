@@ -2,6 +2,13 @@
 
 Reading List. How to find useful things to read during downtime minutes.
 
+# Community
+
+- [LA CERT](https://www.cert-la.com/)
+- [JPL ARC](https://jplarc.ampr.org/)
+- [ARRLLAX](http://www.arrllax.org/)
+- [ARES](http://www.arrllax.org/index.php?page=ares)
+
 # Projects
 
 - [Trello](https://trello.com)
