@@ -7,6 +7,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Trello](https://trello.com)
 - [duolingo](https://duolingo.com)
 - [hamstudy](https://hamstudy.org)
+- [ARRL News](https://blubrry.com/arrlaudionews/)
 
 # Advice
 
