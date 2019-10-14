@@ -86,6 +86,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [CASE](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
 - [RSS](http://www.roboticsconference.org/)
 - [ICAPS](http://www.icaps-conference.org/)
+- [IEEE Aero](http://aeroconf.org)
 
 # Journals
 
