@@ -33,6 +33,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Wired](https://www.wired.com/)
 - [hackernews](https://news.ycombinator.com/)
 - [techcrunch](https://techcrunch.com/)
+- [Paul Graham](http://paulgraham.com/index.html)
 
 # Environment
 
