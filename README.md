@@ -102,6 +102,12 @@ Reading List. How to find useful things to read during downtime minutes.
 # Archives to browse
 
 - [arXiv.org](https://arxiv.org/)
+  - [CS/Robotics](https://arxiv.org/list/cs.RO/recent)
+  - [CS/new](https://arxiv.org/list/cs/new)
+    - [CS/DS&A](https://arxiv.org/list/cs.DS/recent)
+    - [CS/DP&C](https://arxiv.org/list/cs.DC/recent)
+    - [CS/emerging](https://arxiv.org/list/cs.ET/recent)
+    - [CS/DSM](https://arxiv.org/list/cs.DM/recent)
 - [gScholar](https://scholar.google.com/)
 
 # Books to read
