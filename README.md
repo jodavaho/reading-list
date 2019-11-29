@@ -92,7 +92,8 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # Journals
 
-- [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967)
+- [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
+- [JFR](https://onlinelibrary.wiley.com/journal/15564967)
 - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 - [AURO](https://link.springer.com/journal/10514)
 - [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
