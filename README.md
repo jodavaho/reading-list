@@ -13,7 +13,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [IEEE](https://www.ieee.org/profile/membershipandsubscription/showMembershipsAndSubscriptions.html)
   - [AESS](http://ieee-aess.org/)
   - [CompSoc](https://www.computer.org/)
-  - [GRSS](http://www.grss-ieee.org/)
+  - [GRSS](http://www.grss-ieee.org/) // [ToGRSS](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp)
   - [ITSOC](https://www.itsoc.org/)
   - [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
   - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
