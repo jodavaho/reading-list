@@ -4,6 +4,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # Study
 
+- [IEEE](https://www.ieee.org/profile/membershipandsubscription/showMembershipsAndSubscriptions.html)
 - [ACM DL](https://dl.acm.org/dl.cfm)
 - [arXiv.org](https://arxiv.org/)
   - [CS/Robotics](https://arxiv.org/list/cs.RO/recent)
