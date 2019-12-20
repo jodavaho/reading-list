@@ -2,6 +2,40 @@
 
 Reading List. How to find useful things to read during downtime minutes.
 
+# Study
+
+- [ACM DL](https://dl.acm.org/dl.cfm)
+- [arXiv.org](https://arxiv.org/)
+  - [CS/Robotics](https://arxiv.org/list/cs.RO/recent)
+  - [CS/new](https://arxiv.org/list/cs/new)
+    - [CS/DS&A](https://arxiv.org/list/cs.DS/recent)
+    - [CS/DP&C](https://arxiv.org/list/cs.DC/recent)
+    - [CS/emerging](https://arxiv.org/list/cs.ET/recent)
+    - [CS/DSM](https://arxiv.org/list/cs.DM/recent)
+- [gScholar](https://scholar.google.com/)
+
+## Conferences
+
+- [ISER](http://www.wikicfp.com/cfp/program?id=1706&s=ISER&f=International%20Symposium%20on%20Experimental%20Robotics)
+- [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
+- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [CASE](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
+- [RSS](http://www.roboticsconference.org/)
+- [ICAPS](http://www.icaps-conference.org/)
+- [IEEE Aero](http://aeroconf.org)
+- [Siggraph](https://www.siggraph.org/)
+
+## Journals
+
+- [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
+- [JFR](https://onlinelibrary.wiley.com/journal/15564967)
+- [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+- [AURO](https://link.springer.com/journal/10514)
+- [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
+- [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+
+
+
 # Community
 
 - [LA CERT](https://www.cert-la.com/)
@@ -82,36 +116,6 @@ Reading List. How to find useful things to read during downtime minutes.
 
 - [Robotics StackExchange](https://robotics.stackexchange.com/)
 - [CS StackExchange](https://cs.stackexchange.com/)
-
-# Conferences
-
-- [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
-- [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-- [CASE](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
-- [RSS](http://www.roboticsconference.org/)
-- [ICAPS](http://www.icaps-conference.org/)
-- [IEEE Aero](http://aeroconf.org)
-- [Siggraph](https://www.siggraph.org/)
-
-# Journals
-
-- [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
-- [JFR](https://onlinelibrary.wiley.com/journal/15564967)
-- [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
-- [AURO](https://link.springer.com/journal/10514)
-- [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
-- [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
-
-# Archives to browse
-
-- [arXiv.org](https://arxiv.org/)
-  - [CS/Robotics](https://arxiv.org/list/cs.RO/recent)
-  - [CS/new](https://arxiv.org/list/cs/new)
-    - [CS/DS&A](https://arxiv.org/list/cs.DS/recent)
-    - [CS/DP&C](https://arxiv.org/list/cs.DC/recent)
-    - [CS/emerging](https://arxiv.org/list/cs.ET/recent)
-    - [CS/DSM](https://arxiv.org/list/cs.DM/recent)
-- [gScholar](https://scholar.google.com/)
 
 # Books to read
 
