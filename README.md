@@ -4,9 +4,21 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # Study
 
+- [AIAA](https://arc.aiaa.org/loi/aiaaj)
+  - [Journal of Aerospace Information Systems](https://arc.aiaa.org/loi/jais)
+  - [Journal of Spacecraft and Rockets](https://arc.aiaa.org/loi/jsr)
+- [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
+- [JFR](https://onlinelibrary.wiley.com/journal/15564967)
+- [AURO](https://link.springer.com/journal/10514)
 - [IEEE](https://www.ieee.org/profile/membershipandsubscription/showMembershipsAndSubscriptions.html)
-  - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+  - [AESS](http://ieee-aess.org/)
+  - [CompSoc](https://www.computer.org/)
+  - [GRSS](http://www.grss-ieee.org/)
+  - [ITSOC](https://www.itsoc.org/)
   - [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+  - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+  - [RAS](http://www.ieee-ras.org/)
+    - [RAS Pub](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
 - [ACM DL](https://dl.acm.org/dl.cfm)
 - [ACM DL/Journals](https://dl.acm.org/pubs.cfm)
   - [TAAS](https://taas.acm.org/)
@@ -40,18 +52,6 @@ Reading List. How to find useful things to read during downtime minutes.
 - [ICAPS](http://www.icaps-conference.org/)
 - [IEEE Aero](http://aeroconf.org)
 - [Siggraph](https://www.siggraph.org/)
-
-## Journals
-
-- [AIAA](https://arc.aiaa.org/loi/aiaaj)
-- [Journal of Aerospace Information Systems](https://arc.aiaa.org/loi/jais)
-- [Journal of Spacecraft and Rockets](https://arc.aiaa.org/loi/jsr)
-- [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
-- [JFR](https://onlinelibrary.wiley.com/journal/15564967)
-- [AURO](https://link.springer.com/journal/10514)
-- [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
-
-
 
 # Community
 
