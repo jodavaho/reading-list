@@ -28,6 +28,9 @@ Reading List. How to find useful things to read during downtime minutes.
 
 ## Journals
 
+- [AIAA](https://arc.aiaa.org/loi/aiaaj)
+- [Journal of Aerospace Information Systems](https://arc.aiaa.org/loi/jais)
+- [Journal of Spacecraft and Rockets](https://arc.aiaa.org/loi/jsr)
 - [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
 - [JFR](https://onlinelibrary.wiley.com/journal/15564967)
 - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
