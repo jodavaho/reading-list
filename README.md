@@ -5,7 +5,22 @@ Reading List. How to find useful things to read during downtime minutes.
 # Study
 
 - [IEEE](https://www.ieee.org/profile/membershipandsubscription/showMembershipsAndSubscriptions.html)
+  - [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+  - [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 - [ACM DL](https://dl.acm.org/dl.cfm)
+- [ACM DL/Journals](https://dl.acm.org/pubs.cfm)
+  - [TAAS](https://taas.acm.org/)
+  - [TALG](https://talg.acm.org/)
+  - [TAP](https://tap.acm.org/)
+  - [TCPS](https://tcps.acm.org/)
+  - [TECS](https://tecs.acm.org/)
+  - [TOCS](https://tocs.acm.org/)
+  - [TOCT](https://toct.acm.org/)
+  - [TOG](https://tog.acm.org/)
+  - [TOPC](https://topc.acm.org/)
+  - [TOSN](https://tosn.acm.org/)
+  - [TRETS](https://trets.acm.org/)
+  - [TSAS](https://tsas.acm.org/)
 - [arXiv.org](https://arxiv.org/)
   - [CS/Robotics](https://arxiv.org/list/cs.RO/recent)
   - [CS/new](https://arxiv.org/list/cs/new)
@@ -33,10 +48,8 @@ Reading List. How to find useful things to read during downtime minutes.
 - [Journal of Spacecraft and Rockets](https://arc.aiaa.org/loi/jsr)
 - [JCG](https://journals.carleton.ca/jocg/index.php/jocg)
 - [JFR](https://onlinelibrary.wiley.com/journal/15564967)
-- [TRO](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 - [AURO](https://link.springer.com/journal/10514)
 - [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
-- [RAM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 
 
 
