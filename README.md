@@ -73,6 +73,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [ICAPS](http://www.icaps-conference.org/)
 - [IEEE Aero](http://aeroconf.org)
 - [Siggraph](https://www.siggraph.org/)
+- [Fusion](https://www.fusion2020.org/)
 
 # Community
 
