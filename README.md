@@ -75,6 +75,7 @@ Reading List. How to find useful things to read during downtime minutes.
 - [IEEE Aero](http://aeroconf.org)
 - [Siggraph](https://www.siggraph.org/)
 - [Fusion](https://www.fusion2020.org/)
+- [AGU](https://www.agu.org/)
 
 # Community
 
