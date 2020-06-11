@@ -55,6 +55,7 @@ Reading List. How to find useful things to read during downtime minutes.
 ## Robotics
 
 - [Arxiv CS/Robotics](https://arxiv.org/list/cs.RO/recent)
+- [Multirobotsystems.org](http://multirobotsystems.org/)
 - [JFR](https://onlinelibrary.wiley.com/journal/15564967)
 - [AURO](https://link.springer.com/journal/10514)
 - [IEEE](https://www.ieee.org/profile/membershipandsubscription/showMembershipsAndSubscriptions.html)
