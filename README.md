@@ -132,6 +132,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 - [examine.com](https://examine.com)
 - [selfhacked.com](https://selfhacked.com/)
+- [Cochrane reviews](https://www.cochranelibrary.com/cdsr/about-cdsr)
 
 
 # Defense
