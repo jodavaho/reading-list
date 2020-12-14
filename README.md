@@ -108,6 +108,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 # Tech
 
+- [low tech magazine .com](https://www.lowtechmagazine.com/)
 - [vas3k](https://vas3k.com/)
 - [arrl.org](http://www.arrl.org/)
 - [Hackaday](https://hackaday.com/)
