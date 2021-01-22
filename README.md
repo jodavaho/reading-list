@@ -73,6 +73,7 @@ Reading List. How to find useful things to read during downtime minutes.
 
 ## Conferences
 
+- [USRA](https://www.hou.usra.edu/meeting_portal/index.cfm)
 - [WAFR](https://www.google.com/search?q=workshop+algorithmic+foundations+of+robotics&oq=workshop+algorithmic+foundations+of+robotics)
 - [ISER](http://www.wikicfp.com/cfp/program?id=1706&s=ISER&f=International%20Symposium%20on%20Experimental%20Robotics)
 - [IROS](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
